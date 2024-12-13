@@ -1,4 +1,4 @@
-# Welcome to PowerDale
+# Welcome to PowerDale (Kathy's version)
 
 PowerDale is a small town with around 100 residents. Most houses have a smart meter installed that can save and send
 information about how much power a house is drawing/using.
